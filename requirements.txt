@@ -1,0 +1,4 @@
+requests==2.18.4
+Flask==0.12.2
+Flask_SocketIO==2.9.6
+socketIO_client==0.7.2
